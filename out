@@ -1,0 +1,697 @@
+[0;33m"LE GRAND BEC"[0m
+{
+     "N"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+     "O"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "NO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    }
+}
+
+[0;33m"BELGODERE"[0m
+{
+    "O"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"LA FOURNAISE"[0m
+{
+      "S"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m11[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "SSO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m9[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+     "SO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m5[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    }
+}
+
+[0;33m"LE TEMPLE"[0m
+{
+      "S"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m11[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "SSO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m9[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+     "SO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m5[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "OSO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m0[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+      "O"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m4[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    }
+}
+
+[0;33m"COL DE BATTAGLIA SPELUNCATO"[0m
+{
+    "NO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"CROCE D'OLU"[0m
+{
+    "NO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"POINTE DE SOLARU"[0m
+{
+    "O"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m7[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m281[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"BOCCA A SFORSSI"[0m
+{
+    "NO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"A NEVERA - PETRALBA"[0m
+{
+      "E"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "ESE"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "SE"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "SSE"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+      "S"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m1[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m234[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"LEZAT"[0m
+{
+      "S"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m8[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m26[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m199[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.2[0m
+    },
+    "SSO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m2[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m26[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m199[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.2[0m
+    },
+     "SO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m11[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m26[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m199[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.2[0m
+    }
+}
+
+[0;33m"Le Rocher du Bouc"[0m
+{
+    "O"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m4[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    }
+}
+
+[0;33m"LE ROC"[0m
+{
+    "O"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m4[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m12[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m248[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    }
+}
+
+[0;33m"CAROLLES - CROIX PAQUEREY"[0m
+{
+      "O"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m9[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m19[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m296[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "ONO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m19[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m296[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "NO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m6[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m19[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m296[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"GUSTIBERG"[0m
+{
+    "SE"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m8[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "SO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m2[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"BELFAHY"[0m
+{
+    "S"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m4[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"SAUSSEMARE"[0m
+{
+     "N"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "NO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"SAINT AUBIN NORD"[0m
+{
+     "N"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "NO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"BASSE COTE"[0m
+{
+    "SO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m2[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"TETE DES RENARDS"[0m
+{
+     "N"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m4[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "NE"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m2[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "SO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m2[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "O"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m7[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "NO"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m8[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m8[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m209[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"VILLERS SUR MER - LE MANOIR"[0m
+{
+      "n"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "nne"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m17[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "ene"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m16[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+      "e"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "ese"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m6[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+     "se"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "sse"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m7[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+      "s"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "sso"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m17[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+     "so"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m18[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "oso"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m16[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+      "o"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "ono"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m6[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+     "no"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    },
+    "nno"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m7[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.4[0m
+    }
+}
+
+[0;33m"LE BILLOT"[0m
+{
+      "n"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "nne"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m17[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "ene"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m16[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+      "e"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "ese"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m6[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "se"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "sse"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m7[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+      "s"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "sso"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m17[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "so"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m18[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "oso"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m16[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+      "o"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "ono"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m6[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "no"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "nno"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m7[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m18[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m313[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+
+[0;33m"CAVES DE LA MIGNONNE"[0m
+{
+      "n"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m10[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "nne"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m6[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "ene"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m4[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+      "e"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m9[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "ese"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "se"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "sse"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+      "s"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m10[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "sso"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m6[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "so"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m1[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "oso"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m4[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+      "o"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m9[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "ono"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+     "no"[0;37m => [0m{
+                           :face[0;37m => [0m[1;32mtrue[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m13[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    },
+    "nno"[0;37m => [0m{
+                           :face[0;37m => [0m[1;31mfalse[0m,
+                 :travers_in_kmh[0;37m => [0m[1;34m12[0m,
+              :wind_speed_in_kmh[0;37m => [0m[1;34m13[0m,
+        :wind_orientation_in_deg[0;37m => [0m[1;34m229[0m,
+                     :rain_in_mm[0;37m => [0m[1;34m0.0[0m
+    }
+}
+

@@ -1,0 +1,29 @@
+<h1>Où c'est-ty qu'on irait voler ? </h1>
+
+<div class='well row'>
+  <div class="col-md-2"></div>
+  <div class="col-md-6">
+    <%= bootstrap_form_tag url: '/', method: :get do |f| %>
+      <%= f.text_field :latitude, value: @latitude %>
+      <%= f.text_field :longitude, value: @longitude %>
+      <%= f.text_field :max_wind, value: @max_wind %>
+      <%= f.date_field :date, value: @date %>
+      <%= f.number_field :max_number_of_sites, value: @max %>
+      <%= f.submit :chercher %>
+    <% end %>
+  </div>
+  <div class="col-md-2"></div>
+</div>
+
+<div class='well row'>
+  <% unless @sites.empty? %>
+    <% @sites.each do |site| %>
+      <div class='row <%= site.flyable_at(@date,@max_wind) ? "alert alert-success" : "alert alert-danger" %>'>
+        <div class="col-md-10 ">
+          <div class='row'><h3><%= "#{site.name} - distance #{(1e4*site.geo_near_distance).round(2)} km" %></h3></div>
+          <div class='row'><%= site.flyable_details(@date) %></div>
+        </div>
+      </div>
+    <% end %>
+  <% end %>
+</div>
